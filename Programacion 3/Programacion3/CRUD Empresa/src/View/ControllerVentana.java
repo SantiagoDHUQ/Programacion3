@@ -535,6 +535,4 @@ public class ControllerVentana implements Initializable {
         labelTotal.setText(total+"");
         txtFieldCantidad.setText("");
     }
-
-
 }
